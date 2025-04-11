@@ -1,0 +1,44 @@
+2025-04-11 20:05:33,501 - INFO - Datasets loaded successfully
+2025-04-11 20:05:33,501 - INFO - Datasets loaded successfully
+2025-04-11 20:05:33,693 - INFO - Team Win Prediction Accuracy: 64.22%
+2025-04-11 20:05:33,693 - INFO - Team Win Prediction Accuracy: 64.22%
+2025-04-11 20:05:33,723 - INFO - Team model and encoders saved to /Users/pritamsmac/Downloads/backlinks/models
+2025-04-11 20:05:33,732 - INFO - Team model and encoders saved to /Users/pritamsmac/Downloads/backlinks/models
+2025-04-11 20:05:33,902 - INFO - Player model saved to /Users/pritamsmac/Downloads/backlinks/models/player_model.pkl
+2025-04-11 20:05:33,904 - INFO - Player model saved to /Users/pritamsmac/Downloads/backlinks/models/player_model.pkl
+2025-04-11 20:05:34,556 - INFO - Datasets loaded successfully
+2025-04-11 20:05:34,602 - INFO - Loaded existing team model and encoders
+2025-04-11 20:05:34,678 - INFO - Loaded existing player model
+2025-04-11 20:05:34,783 - INFO - Scraped squad for royal-challengers-bengaluru: 0 players
+2025-04-11 20:05:35,533 - INFO - Scraped squad for delhi-capitals: 22 players
+2025-04-11 20:05:36,396 - INFO - Scraped squad for mumbai-indians: 23 players
+2025-04-11 20:05:36,731 - INFO - Scraped squad for chennai-super-kings: 25 players
+2025-04-11 20:05:37,249 - INFO - Scraped squad for kolkata-knight-riders: 21 players
+2025-04-11 20:05:37,577 - INFO - Scraped squad for sunrisers-hyderabad: 20 players
+2025-04-11 20:05:38,319 - INFO - Scraped squad for rajasthan-royals: 20 players
+2025-04-11 20:05:38,328 - INFO - Scraped squad for royal-challengers-bengaluru: 0 players
+2025-04-11 20:05:38,474 - INFO - Scraped squad for delhi-capitals: 22 players
+2025-04-11 20:05:38,533 - INFO - Scraped squad for punjab-kings: 25 players
+2025-04-11 20:05:38,705 - INFO - Scraped squad for mumbai-indians: 23 players
+2025-04-11 20:05:38,875 - INFO - Scraped squad for chennai-super-kings: 25 players
+2025-04-11 20:05:39,009 - INFO - Scraped squad for royal-challengers-bengaluru: 0 players
+2025-04-11 20:05:39,045 - INFO - Scraped squad for kolkata-knight-riders: 21 players
+2025-04-11 20:05:39,206 - INFO - Scraped squad for delhi-capitals: 22 players
+2025-04-11 20:05:39,291 - INFO - Scraped squad for sunrisers-hyderabad: 20 players
+2025-04-11 20:05:39,394 - INFO - Scraped squad for gujarat-titans: 25 players
+2025-04-11 20:05:39,426 - INFO - Scraped squad for mumbai-indians: 23 players
+2025-04-11 20:05:39,508 - INFO - Scraped squad for rajasthan-royals: 20 players
+2025-04-11 20:05:39,631 - INFO - Scraped squad for chennai-super-kings: 25 players
+2025-04-11 20:05:39,690 - INFO - Scraped squad for punjab-kings: 25 players
+2025-04-11 20:05:39,839 - INFO - Scraped squad for kolkata-knight-riders: 21 players
+2025-04-11 20:05:39,881 - INFO - Scraped squad for gujarat-titans: 25 players
+2025-04-11 20:05:40,107 - INFO - Scraped squad for sunrisers-hyderabad: 20 players
+2025-04-11 20:05:40,181 - INFO - Scraped squad for lucknow-super-giants: 24 players
+2025-04-11 20:05:40,203 - INFO - Scraped squad for lucknow-super-giants: 24 players
+2025-04-11 20:05:40,210 - INFO - Squads saved to team_squads.json
+2025-04-11 20:05:40,216 - INFO - Squads saved to team_squads.json
+2025-04-11 20:05:40,407 - INFO - Scraped squad for rajasthan-royals: 20 players
+2025-04-11 20:05:41,016 - INFO - Scraped squad for punjab-kings: 25 players
+2025-04-11 20:05:41,239 - INFO - Scraped squad for gujarat-titans: 25 players
+2025-04-11 20:05:42,434 - INFO - Scraped squad for lucknow-super-giants: 24 players
+2025-04-11 20:05:42,439 - INFO - Squads saved to team_squads.json
