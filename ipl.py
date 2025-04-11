@@ -1,3 +1,23 @@
+import os
+import subprocess
+import sys
+
+def install_and_import(package):
+    try:
+        __import__(package)
+    except ImportError:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+# Ensure required packages are installed
+required_packages = [
+    "pandas", "numpy", "scikit-learn", "matplotlib", "seaborn", 
+    "joblib", "requests", "beautifulsoup4", "google-generativeai", "streamlit"
+]
+
+for package in required_packages:
+    install_and_import(package)
+
+# Importing libraries
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
